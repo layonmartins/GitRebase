@@ -2,5 +2,5 @@ commit 1
 commit 2
 commit 3
 commit 4
-featureA 1
 featureA 2
+featureA 1
